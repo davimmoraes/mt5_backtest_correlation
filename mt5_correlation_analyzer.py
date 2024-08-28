@@ -123,4 +123,4 @@ if __name__ == "__main__":
     main()
 
 
-# streamlit run "G:\Meu Drive\Box\Projects\backtest_csv_reader\pearson_backtest_correlation_v1.14.py"
+# To run execute the following command line: streamlit run "File path"
